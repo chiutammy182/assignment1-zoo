@@ -5,12 +5,9 @@ body {
 }
 
 button {
-  border: none;
-  color: lightblue;
-  padding: 15px 32px;
-  text-align: left;
-  text-decoration: none;
-  display: inline-block;
+  color: white;
+  padding: 10px 10px;
   font-size: 18px;
   font-family: Courier New;
+  font-weight: bold;
 }

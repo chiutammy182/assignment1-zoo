@@ -1,6 +1,6 @@
 # Assignment 1: Zoo
 
-# GitHub Page Link
+### GitHub Page Link
 
 [Website Link] (https://tammyc182.github.io/assignment1-zoo/)
 
