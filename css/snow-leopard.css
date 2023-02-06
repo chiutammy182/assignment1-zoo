@@ -3,3 +3,14 @@ body {
   background-color: lightblue;
   text-align: center;
 }
+
+button {
+  border: none;
+  color: lightblue;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: Courier New;
+}
