@@ -5,9 +5,9 @@ body {
 }
 
 button {
-  color: white;
+  background-color: rgb(207, 145, 192);
   padding: 10px 10px;
   font-size: 18px;
-  font-family: Courier New;
+  font-family: Papyrus;
   font-weight: bold;
 }
