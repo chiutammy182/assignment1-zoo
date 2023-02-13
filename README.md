@@ -2,7 +2,7 @@
 
 ### GitHub Page Link
 
-[Website Link] (https://tammyc182.github.io/assignment1-zoo/)
+[Website link] (https://tammyc182.github.io/assignment1-zoo/)
 
 # zoo-starter-code
 

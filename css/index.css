@@ -1,9 +1,12 @@
 body {
-  font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  font-family: Courier New;
+  background-color: rgb(171, 212, 218);
   text-align: center;
 }
-
 .link {
   font-size: 18px;
+}
+
+img {
+  padding-top: 35px;
 }
